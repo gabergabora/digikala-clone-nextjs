@@ -6,7 +6,7 @@ import { Category, Slider, Banner } from 'models'
 
 import {
   BannerOne,
-  BannerTwo,
+  BannerTwo,                            
   BestSellsSlider,
   Categories,
   ClientLayout,
